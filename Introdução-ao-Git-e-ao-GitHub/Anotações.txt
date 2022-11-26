@@ -1,0 +1,10 @@
+Anotações Importantes
+
+- Tópicos Estudados
+	- SHA1
+	- Blob, Tree e Commit
+	- Criar chave SSH e Token
+	- Clonar Repositório no GitHub
+	- Token de acesso pessoal
+	- Por baixo dos panos
+	- Push e Pull

@@ -1,0 +1,15 @@
+Anotações Importantes
+
+- Tópicos Estudados
+	- UX Design
+	- UI Design
+	- Modelo cliente-servidor
+	- Desenvolvimento FrontEnd
+	- Frameworks
+	- Desenvolvimento BackEnd
+	- API
+	- Desenvolvimento Full Stack
+	- Quality Assurance
+	- Nuvem Privada e Pública
+	- Cloud computing
+	- Desenvolvimento Mobile

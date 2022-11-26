@@ -1,0 +1,14 @@
+Anotações Importantes
+
+- Tópicos Estudados
+	- Pensamento computacional
+	- Habilidades
+	- Decomposição
+	- Padrões
+	- Abstração
+	- Algoritmo
+	- Lógica de programação
+	- Estruturas condicionais e operadores
+	- Vetores e Matrizes
+	- Funcão
+	- Pilares POO
